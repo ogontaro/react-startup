@@ -7,6 +7,8 @@
   - package-lock.json
 
 ## テンプレートの内容
+- Reactの拡張
+  - React Routerを使用
 - UI
   - Material UIを使用
 - JS
