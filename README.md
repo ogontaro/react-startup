@@ -3,6 +3,7 @@
 
 ## テンプレートの使用時に最初にすること
 - プロジェクト名の変更
+  - docker-compose
   - package.json
   - package-lock.json
 
