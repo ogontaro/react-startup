@@ -13,7 +13,7 @@ COPY package-lock.json ./
 
 FROM base as development
 ENV NODE_ENV development
-RUN npm instal
+ENTRYPOINT ["/entrypoint.sh"]
 
 FROM base as production
 ENV NODE_ENV production
